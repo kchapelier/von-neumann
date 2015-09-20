@@ -1,0 +1,31 @@
+{
+  "name": "von-neumann",
+  "version": "1.0.0",
+  "description": "Generates Von Neumann neighborhoods of any range/dimension",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kchapelier/von-neumann.git"
+  },
+  "keywords": [
+    "von neumann",
+    "neighborhoods",
+    "adjacent",
+    "cell",
+    "table",
+    "grid"
+  ],
+  "author": "Kevin Chapelier",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/kchapelier/von-neumann/issues"
+  },
+  "homepage": "https://github.com/kchapelier/von-neumann",
+  "devDependencies": {
+    "tape": "^4.2.0"
+  }
+}
