@@ -1,6 +1,6 @@
 {
   "name": "von-neumann",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generates Von Neumann neighborhoods of any range/dimension",
   "main": "index.js",
   "scripts": {

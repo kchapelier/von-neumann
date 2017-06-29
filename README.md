@@ -32,3 +32,17 @@ vonNeumann(1, 2) === [
            [ 0, 1],
 ]
 ```
+
+## Changelog
+
+### 1.0.1 (2017-06-29) :
+
+* Faster implementation by [Brandon Semilla](https://github.com/semibran)
+
+### 1.0.0 (2015-09-20) :
+
+* First implementation
+
+## License
+
+MIT
